@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "messages": [
+    {
+      "id": "v0001",
+      "text": {
+        "ru": "Ты держишься, даже когда тяжело. Это уже победа. Один день за раз.",
+        "en": "You keep going even when it's hard. That's already a win. One day at a time.",
+        "vi": "Bạn vẫn tiến bước ngay cả khi khó khăn. Đó đã là một chiến thắng. Từng ngày một."
+      }
+    },
+    {
+      "id": "v0002",
+      "text": {
+        "ru": "Срыв — не конец пути. Это просто поворот. Возвращайся и продолжай идти.",
+        "en": "A slip is not the end of the road. It's just a turn. Come back and keep walking.",
+        "vi": "Một lần vấp ngã không phải là kết thúc. Đó chỉ là một khúc quanh. Hãy quay lại và tiếp tục."
+      }
+    },
+    {
+      "id": "v0003",
+      "text": {
+        "ru": "Я тоже считал дни и думал, что не получится. Получилось. Получится и у тебя.",
+        "en": "I counted the days too and thought I couldn't make it. I did. You will too.",
+        "vi": "Tôi cũng từng đếm từng ngày và nghĩ mình không thể. Tôi đã làm được. Bạn cũng vậy."
+      }
+    },
+    {
+      "id": "v0004",
+      "text": {
+        "ru": "Будь к себе добрее. Ты делаешь сложную работу, которую не видно со стороны.",
+        "en": "Be gentle with yourself. You're doing hard work that no one else can see.",
+        "vi": "Hãy dịu dàng với chính mình. Bạn đang làm một việc khó mà người khác không thấy được."
+      }
+    }
+  ]
+}
