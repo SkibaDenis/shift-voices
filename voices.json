@@ -12,7 +12,7 @@
     {
       "id": "v0002",
       "text": {
-        "ru": "Срыв — не конец пути. Это просто поворот. Возвращайся и продолжай идти.",
+        "ru": "Срыв это не конец пути. Это просто поворот. Возвращайся и продолжай идти.",
         "en": "A slip is not the end of the road. It's just a turn. Come back and keep walking.",
         "vi": "Một lần vấp ngã không phải là kết thúc. Đó chỉ là một khúc quanh. Hãy quay lại và tiếp tục."
       }
@@ -63,6 +63,14 @@
         "ru": "Когда появляются тревожные мысли, подумай, чему ты благодарна (-ен) в сегодняшнем дне, в двух днях, в жизни. Подыши и задай себе вопрос: «Что сделает меня счастливой (-ым)?», прочувствуй благодарность за ответы и представь, что это уже реально.",
         "en": "When anxious thoughts appear, think about what you are grateful for today, in the last couple of days, in life. Take a breath and ask yourself: 'What will make me happy?', feel grateful for the answers and imagine that it is already real.",
         "vi": "Khi những suy nghĩ lo âu xuất hiện, hãy nghĩ xem bạn biết ơn điều gì trong ngày hôm nay, trong hai ngày qua, hay trong cuộc sống. Hãy hít thở sâu và tự hỏi bản thân: 'Điều gì sẽ khiến mình hạnh phúc?', hãy cảm nhận lòng biết ơn đối với những câu trả lời và tưởng tượng rằng điều đó đã trở thành sự thật."
+      }
+    }
+    {
+      "id": "v0009",
+      "text": {
+        "ru": "Желаю всем достигать своих целей и получать от этого удовольствие, ведь это и есть счастье ❤️",
+        "en": "I wish everyone to achieve their goals and enjoy the process, because that is what happiness is ❤️",
+        "vi": "Chúc mọi người đạt được mục tiêu của mình và tìm thấy niềm vui từ điều đó, bởi vì đó chính là hạnh phúc ❤️"
       }
     }
   ]
