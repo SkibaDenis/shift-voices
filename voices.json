@@ -4,45 +4,13 @@
     {
       "id": "v0001",
       "text": {
-        "ru": "Ты держишься, even когда тяжело. Это уже победа. Один день за раз.",
-        "en": "You keep going even when it's hard. That's already a win. One day at a time.",
-        "vi": "Bạn vẫn tiến bước ngay cả khi khó khăn. Đó đã là một chiến thắng. Từng ngày một."
-      }
-    },
-    {
-      "id": "v0002",
-      "text": {
-        "ru": "Срыв это не конец пути. Это просто поворот. Возвращайся и продолжай идти.",
-        "en": "A slip is not the end of the road. It's just a turn. Come back and keep walking.",
-        "vi": "Một lần vấp ngã không phải là kết thúc. Đó chỉ là một khúc quanh. Hãy quay lại và tiếp tục."
-      }
-    },
-    {
-      "id": "v0003",
-      "text": {
-        "ru": "Я тоже считал дни и думал, что не получится. Получилось. Получится и у тебя.",
-        "en": "I counted the days too and thought I couldn't make it. I did. You will too.",
-        "vi": "Tôi cũng từng đếm từng ngày và nghĩ mình không thể. Tôi đã làm được. Bạn cũng vậy."
-      }
-    },
-    {
-      "id": "v0004",
-      "text": {
-        "ru": "Будь к себе добрее. Ты делаешь сложную работу, которую не видно со стороны.",
-        "en": "Be gentle with yourself. You're doing hard work that no one else can see.",
-        "vi": "Hãy dịu dàng với chính mình. Bạn đang làm một việc khó mà người khác không thấy được."
-      }
-    },
-    {
-      "id": "v0005",
-      "text": {
         "ru": "Хочу пожелать вам сил и много-много терпения. Умения пережить все невзгоды. Быть благодарным за каждый прожитый день, за возможность самой жизни, ведь не каждому она дана. Уметь находить отраду в близких, родных, семье, друзьях, новых впечатлениях. Стараться. Иногда позволять себе быть слабым, можно поплакать — в этом нет ничего плохого. Главное, не держать в себе эти эмоции. Когда плохо, может полежать, можно поплакать, а можно выйти на улицу и просто побродить без мыслей. Воспоминания, беречь их. Запиши свои мысли. Вы не один или не одна. Надо просто ловить моменты этой жизни. И получать удовольствие, по мере возможности. Обнимаю крепко-крепко, где бы вы ни находились.",
         "en": "I want to wish you strength and lots and lots of patience. The ability to survive all hardships. To be grateful for each day you live, for the opportunity of life itself, because not everyone is given it. To be able to find solace in loved ones, relatives, family, friends, and new impressions. Keep trying. Sometimes allow yourself to be weak, it's okay to cry — there is nothing wrong with that. The main thing is not to keep these emotions inside. When you feel bad, you can lie down, you can cry, or you can go outside and just wander around without any thoughts. Memories, cherish them. Write down your thoughts. You are not alone. You just need to catch the moments of this life. And enjoy it as much as possible. A big, tight hug, wherever you are.",
         "vi": "Tôi muốn chúc bạn có thêm sức mạnh và thật nhiều sự kiên nhẫn. Khả năng vượt qua mọi nghịch cảnh. Hãy biết ơn mỗi ngày được sống, vì cơ hội được sống không phải ai cũng có được. Biết tìm thấy niềm an ủi nơi những người thân yêu, gia đình, bạn bè và những trải nghiệm mới. Hãy cố gắng. Đôi khi hãy cho phép mình được yếu đuối, có thể khóc — điều đó không có gì sai cả. Điều quan trọng là không giữ những cảm xúc đó trong lòng. Khi cảm thấy tồi tệ, bạn có thể nằm xuống, có thể khóc, hoặc có thể ra ngoài và chỉ đi lang thang mà không nghĩ ngợi gì. Những kỷ niệm, hãy trân trọng chúng. Hãy viết ra những suy nghĩ của bạn. Bạn không cô đơn. Bạn chỉ cần nắm bắt những khoảnh khắc của cuộc sống này. Và tận hưởng nó nhiều nhất có thể. Ôm bạn thật chặt, dù bạn ở bất cứ nơi đâu."
       }
     },
     {
-      "id": "v0006",
+      "id": "v0002",
       "text": {
         "ru": "Хочу сказать тогда одно. Я знаю как тебе тяжело, знаю как больно иногда, как обидно, как сложно. Ты повторяешь одно и тоже раз за разом и у тебя не выходит. Ты откладываешь вот этот вот момент принятия взрослого решения. Я понимаю, я принимаю это. Но я уверен, что ты придешь к этому. Если ты здесь, в этом приложении, это уже прекрасное начало. Прислушайся к себе, возможно совсем скоро, ты будешь готов начать новую жизнь. Обнял",
         "en": "I want to say one thing then. I know how hard it is for you, I know how painful it is sometimes, how frustrating, how difficult. You repeat the same thing over and over again and it doesn't work out. You keep putting off this moment of making an adult decision. I understand, I accept that. But I am sure that you will get there. If you are here, in this app, it's already a great start. Listen to yourself, perhaps very soon, you will be ready to start a new life. Hugs",
@@ -50,7 +18,7 @@
       }
     },
     {
-      "id": "v0007",
+      "id": "v0003",
       "text": {
         "ru": "Даже если прямо сейчас невыносимо, помни, пожалуйста, о том, что ты был/а счастлив/а. И обязательно снова будешь. И будет легко дышать. И рядом будут действительно близкие люди. Нужно в это искренне поверить. А ещё не бояться обращаться за помощью, потому что в мире больше добра, чем ты можешь себе представить. Обняла ✨",
         "en": "Even if it feels unbearable right now, please remember that you have been happy before. And you definitely will be again. And it will be easy to breathe. And truly close people will be around you. You need to sincerely believe in this. And also, don't be afraid to ask for help, because there is more kindness in the world than you can imagine. Hugs ✨",
@@ -58,7 +26,7 @@
       }
     },
     {
-      "id": "v0008",
+      "id": "v0004",
       "text": {
         "ru": "Когда появляются тревожные мысли, подумай, чему ты благодарна (-ен) в сегодняшнем дне, в двух днях, в жизни. Подыши и задай себе вопрос: «Что сделает меня счастливой (-ым)?», прочувствуй благодарность за ответы и представь, что это уже реально.",
         "en": "When anxious thoughts appear, think about what you are grateful for today, in the last couple of days, in life. Take a breath and ask yourself: 'What will make me happy?', feel grateful for the answers and imagine that it is already real.",
@@ -66,11 +34,43 @@
       }
     },
     {
-      "id": "v0009",
+      "id": "v0005",
       "text": {
         "ru": "Желаю всем достигать своих целей и получать от этого удовольствие, ведь это и есть счастье ❤️",
         "en": "I wish everyone to achieve their goals and enjoy the process, because that is what happiness is ❤️",
         "vi": "Chúc mọi người đạt được mục tiêu của mình và tìm thấy niềm vui từ điều đó, bởi vì đó chính là hạnh phúc ❤️"
+      }
+    },
+    {
+      "id": "v0006",
+      "text": {
+        "ru": "Жизнь дается человеку на такой короткий срок, что сама по себе она уже большое счастье. Сенека «Так зачем же тратить жизнь на плохие отношения, мечты и зависть? зачем портить короткий и драгоценный отрезок времени тем, что разрушает? мудрее уважать, слушать, хранить границы и беречь человечность. это продлевает и наполняет жизнь» из книги «к счастью-да» Натальи Дозорцевой",
+        "en": "Life is given to man for such a short period that in itself it is already a great happiness. Seneca: 'So why waste life on bad relationships, empty dreams, and envy? Why ruin a short and precious span of time with what destroys? It is wiser to respect, listen, maintain boundaries, and preserve humanity. This extends and fulfills life' from the book 'To Happiness—Yes' by Natalya Dozortseva",
+        "vi": "Cuộc đời được ban cho con người trong một khoảng thời gian ngắn ngủi đến mức bản thân nó đã là một hạnh phúc lớn lao. Seneca: 'Vậy tại sao lại lãng phí cuộc đời vào những mối quan hệ tồi tệ, những mơ mộng viển vông và lòng đố kỵ? Tại sao lại hủy hoại khoảng thời gian ngắn ngủi và quý giá này bằng những điều mang tính tàn phá? Khôn ngoan hơn là hãy tôn trọng, lắng nghe, giữ gìn ranh giới và bảo vệ tính nhân văn. Điều đó kéo dài và làm phong phú thêm cuộc sống' trích từ cuốn sách 'Đến Hạnh Phúc—Vâng' của Natalya Dozortseva"
+      }
+    },
+    {
+      "id": "v0007",
+      "text": {
+        "ru": "Привычки и achievements приходят только с практикой! Начни с малого и добавляй постепенно усилия! Перестань врать себе, просто делай и достигай. Расставь приоритеты: что помогает достигнуть цели, а что/кто тянет вниз. Создай свою лучшую жизнь, прими себя, будь благодарной. У тебя уже все получается лучше и лучше!",
+        "en": "Habits and achievements only come with practice! Start small and gradually build up your efforts! Stop lying to yourself, just act and achieve. Set your priorities: what helps you reach your goal, and what or who drags you down. Create your best life, accept yourself, and be grateful. You are already doing better and better!",
+        "vi": "Thói quen và thành tựu chỉ đến từ sự luyện tập! Hãy bắt đầu từ việc nhỏ và tăng dần nỗ lực! Ngừng lừa dối bản thân, hãy cứ làm và đạt được mục tiêu. Hãy sắp xếp lại các mức độ ưu tiên: điều gì giúp bạn đạt được mục tiêu, và điều gì/ai đang kéo bạn xuống. Hãy tạo nên cuộc sống tốt đẹp nhất của mình, chấp nhận bản thân và biết ơn. Bạn đang làm mọi thứ ngày một tốt hơn rồi!"
+      }
+    },
+    {
+      "id": "v0008",
+      "text": {
+        "ru": "Всегда прислушивайся к внутреннему голосу и интуиции. Умей говорить «нет», умей говорить «да», умей извиняться, если виноват, и действуй разумом. Дисциплинируй себя думать о хорошем, мечтать о хорошем, верить в чудо и благодарить Мир (Бога) за любые мелочи. УЛЫБНИСЬ ❤️",
+        "en": "Always listen to your inner voice and intuition. Know how to say 'no', know how to say 'yes', know how to apologize if you are wrong, and act with reason. Discipline yourself to think about the good, dream of the good, believe in miracles, and thank the World (God) for any little thing. SMILE ❤️",
+        "vi": "Hãy luôn lắng nghe tiếng nói bên trong và trực giác của mình. Hãy học cách nói 'không', học cách nói 'có', biết nói lời xin lỗi nếu mình sai, og hành động bằng lý trí. Hãy rèn luyện bản thân suy nghĩ về những điều tốt đẹp, mơ về những điều tốt đẹp, tin vào điều kỳ diệu và cảm ơn Thế giới (Thượng đế) vì những điều nhỏ nhặt nhất. HÃY MỈM CƯỜI ❤️"
+      }
+    },
+    {
+      "id": "v0009",
+      "text": {
+        "ru": "Надеюсь Вы и Ваши близкие будут здоровы и счастливы! У Вас все получится!!!❤️",
+        "en": "I hope you and your loved ones will be healthy and happy! You can do it!!!❤️",
+        "vi": "Hy vọng bạn và những người thân yêu sẽ luôn khỏe mạnh và hạnh phúc! Bạn chắc chắn sẽ làm được!!!❤️"
       }
     }
   ]
