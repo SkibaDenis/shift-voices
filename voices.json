@@ -1,3 +1,4 @@
+```json
 {
   "version": 1,
   "messages": [
@@ -52,7 +53,7 @@
     {
       "id": "v0007",
       "text": {
-        "ru": "Привычки и achievements приходят только с практикой! Начни с малого и добавляй постепенно усилия! Перестань врать себе, просто делай и достигай. Расставь приоритеты: что помогает достигнуть цели, а что/кто тянет вниз. Создай свою лучшую жизнь, прими себя, будь благодарной. У тебя уже все получается лучше и лучше!",
+        "ru": "Привычки и достижения приходят только с практикой! Начни с малого и добавляй постепенно усилия! Перестань врать себе, просто делай и достигай. Расставь приоритеты: что помогает достигнуть цели, а что/кто тянет вниз. Создай свою лучшую жизнь, прими себя, будь благодарной. У тебя уже все получается лучше и лучше!",
         "en": "Habits and achievements only come with practice! Start small and gradually build up your efforts! Stop lying to yourself, just act and achieve. Set your priorities: what helps you reach your goal, and what or who drags you down. Create your best life, accept yourself, and be grateful. You are already doing better and better!",
         "vi": "Thói quen và thành tựu chỉ đến từ sự luyện tập! Hãy bắt đầu từ việc nhỏ và tăng dần nỗ lực! Ngừng lừa dối bản thân, hãy cứ làm và đạt được mục tiêu. Hãy sắp xếp lại các mức độ ưu tiên: điều gì giúp bạn đạt được mục tiêu, và điều gì/ai đang kéo bạn xuống. Hãy tạo nên cuộc sống tốt đẹp nhất của mình, chấp nhận bản thân và biết ơn. Bạn đang làm mọi thứ ngày một tốt hơn rồi!"
       }
@@ -62,7 +63,7 @@
       "text": {
         "ru": "Всегда прислушивайся к внутреннему голосу и интуиции. Умей говорить «нет», умей говорить «да», умей извиняться, если виноват, и действуй разумом. Дисциплинируй себя думать о хорошем, мечтать о хорошем, верить в чудо и благодарить Мир (Бога) за любые мелочи. УЛЫБНИСЬ ❤️",
         "en": "Always listen to your inner voice and intuition. Know how to say 'no', know how to say 'yes', know how to apologize if you are wrong, and act with reason. Discipline yourself to think about the good, dream of the good, believe in miracles, and thank the World (God) for any little thing. SMILE ❤️",
-        "vi": "Hãy luôn lắng nghe tiếng nói bên trong và trực giác của mình. Hãy học cách nói 'không', học cách nói 'có', biết nói lời xin lỗi nếu mình sai, og hành động bằng lý trí. Hãy rèn luyện bản thân suy nghĩ về những điều tốt đẹp, mơ về những điều tốt đẹp, tin vào điều kỳ diệu và cảm ơn Thế giới (Thượng đế) vì những điều nhỏ nhặt nhất. HÃY MỈM CƯỜI ❤️"
+        "vi": "Hãy luôn lắng nghe tiếng nói bên trong và trực giác của mình. Hãy học cách nói 'không', học cách nói 'có', biết nói lời xin lỗi nếu mình sai, và hành động bằng lý trí. Hãy rèn luyện bản thân suy nghĩ về những điều tốt đẹp, mơ về những điều tốt đẹp, tin vào điều kỳ diệu và cảm ơn Thế giới (Thượng đế) vì những điều nhỏ nhặt nhất. HÃY MỈM CƯỜI ❤️"
       }
     },
     {
@@ -72,6 +73,24 @@
         "en": "I hope you and your loved ones will be healthy and happy! You can do it!!!❤️",
         "vi": "Hy vọng bạn và những người thân yêu sẽ luôn khỏe mạnh và hạnh phúc! Bạn chắc chắn sẽ làm được!!!❤️"
       }
+    },
+    {
+      "id": "v0010",
+      "text": {
+        "ru": "Ты — это не твоё прошлое. Ты — это только то, что ты хочешь нести в мир.",
+        "en": "You are not your past. You are only what you choose to bring into the world.",
+        "vi": "Bạn không phải là quá khứ của chính mình. Bạn chỉ là những gì bạn chọn mang đến cho thế giới."
+      }
+    },
+    {
+      "id": "v0011",
+      "text": {
+        "ru": "Желаю всем вам рано ложиться, рано вставать, иметь здоровые социальные связи, ограничить алкоголь и вещества, вызывающие зависимость!",
+        "en": "I wish you all to sleep early, wake up early, have healthy social relationships, and limit alcohol and addictive substances!",
+        "vi": "chúc tất cả các bạn ngủ sớm dậy sớm có các mối quan hệ xã hội lành mạnh hạn chế rượu bia và các chất gây nghiện!"
+      }
     }
   ]
 }
+
+```
