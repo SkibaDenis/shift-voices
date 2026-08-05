@@ -88,6 +88,14 @@
         "en": "I wish you all to sleep early, wake up early, have healthy social relationships, and limit alcohol and addictive substances!",
         "vi": "chúc tất cả các bạn ngủ sớm dậy sớm có các mối quan hệ xã hội lành mạnh hạn chế rượu bia và các chất gây nghiện!"
       }
+    },
+    {
+      "id": "v0012",
+      "text": {
+        "ru": "Ты можешь сделать всё что пожелаешь. Вся сила, мудрость, опора внутри тебя. Просто обратись к ней.",
+        "en": "You can do anything you wish. All the strength, wisdom, and support are inside you. Just turn to it.",
+        "vi": "Bạn có thể làm bất cứ điều gì mình mong muốn. Tất cả sức mạnh, sự khôn ngoan và điểm tựa đều ở bên trong bạn. Chỉ cần tìm về với nó."
+      }
     }
   ]
 }
