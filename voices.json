@@ -96,6 +96,14 @@
         "en": "You can do anything you wish. All the strength, wisdom, and support are inside you. Just turn to it.",
         "vi": "Bạn có thể làm bất cứ điều gì mình mong muốn. Tất cả sức mạnh, sự khôn ngoan và điểm tựa đều ở bên trong bạn. Chỉ cần tìm về với nó."
       }
+    },
+    {
+      "id": "v0013",
+      "text": {
+        "ru": "Идите к своей цели и не слушайте никого. Ваш голос внутри — это самое важное.",
+        "en": "Go towards your goal and don't listen to anyone. Your inner voice is the most important thing.",
+        "vi": "Hãy tiến về phía mục tiêu của bạn và đừng lắng nghe ai cả. Tiếng nói bên trong bạn mới là điều quan trọng nhất."
+      }
     }
   ]
 }
