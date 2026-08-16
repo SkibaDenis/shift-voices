@@ -22,7 +22,7 @@
       "text": {
         "ru": "Даже если прямо сейчас невыносимо, помни, пожалуйста, о том, что ты уже был счастлив. И обязательно снова будешь. И будет легко дышать. И рядом будут действительно близкие люди. Нужно в это искренне поверить.\n\nА ещё — не бояться обращаться за помощью, потому что в мире больше добра, чем ты можешь себе представить.\n\nОбняла.",
         "en": "Even if it feels unbearable right now, please remember that you have been happy before. And you definitely will be again. And it will be easy to breathe. And truly close people will be around you. You need to sincerely believe in this.\n\nAnd also, don't be afraid to ask for help, because there is more kindness in the world than you can imagine.\n\nHugs.",
-        "vi": "Ngay cả khi ngay lúc này mọi thứ thật khó khăn, xin hãy nhớ rằng bạn đã từng hạnh phúc. Và chắc chắn bạn sẽ lại hạnh phúc một lần nữa. Và bạn sẽ cảm thấy thật nhẹ lòng. Và những người thực sự thân thiết sẽ ở bên cạnh bạn. Bạn cần phải chân thành tin vào điều đó.\n\nVà cũng đừng ngại ngần tìm kiếm sự giúp đỡ, bởi vì trên đời này còn nhiều điều tử tế hơn những gì bạn có thể tưởng tượng.\n\nÔm bạn một cái."
+        "vi": "Ngay cả khi ngay lúc này mọi thứ thật khó khăn, xin hãy nhớ rằng bạn đã từng hạnh phúc. Và chắc chắn bạn sẽ lại hạnh phúc một lần nữa. Và bạn sẽ cảm thấy thật nhẹ lòng. Và những người thực sự thân thiết sẽ ở bên cạnh bạn. Bạn cần phải chân thành tin vào điều đó.\n\nVà cũng đừng ngại ngần tìm kiếm sự giúp đỡ, bởi vì trên đời này còn nhiều điều tử tế hơn những gì bạn có thể tưởng tượng.\n\nÔm bạn thật chặt."
       }
     },
     {
@@ -103,6 +103,30 @@
         "ru": "Идите к своей цели и не слушайте никого. Ваш голос внутри — это самое важное.",
         "en": "Go towards your goal and don't listen to anyone. Your inner voice is the most important thing.",
         "vi": "Hãy tiến về phía mục tiêu của bạn và đừng lắng nghe ai cả. Tiếng nói bên trong bạn mới là điều quan trọng nhất."
+      }
+    },
+    {
+      "id": "v0014",
+      "text": {
+        "ru": "Мне всегда казалось, что борьба с зависимостью или внедрение полезной привычки — это что-то линейное, но на самом деле нет.\n\nКаждый новый день и каждая следующая ступень будет проще предыдущей. Представь это так, будто каждый день ты кормишь того волка, которого нужно кормить, и каждый день он становится всё сильнее и крепче.\n\nПри этом каждый день ты убиваешь нечто, что тебе вредит. Таким образом враг становится слабее, а ты — сильнее с каждым днём.",
+        "en": "It always seemed to me that fighting an addiction or building a healthy habit is something linear, but in reality, it's not.\n\nEvery new day and every next step will be easier than the previous one. Imagine it as if every day you feed the wolf that needs to be fed, and every day he becomes stronger and sturdier.\n\nAt the same time, every day you kill something that harms you. Thus, the enemy gets weaker, and you get stronger with each passing day.",
+        "vi": "Tôi luôn nghĩ rằng việc chống lại cơn nghiện hay xây dựng một thói quen tốt là một đường thẳng, nhưng thực tế không phải vậy.\n\nMỗi ngày mới và mỗi bước tiếp theo sẽ dễ dàng hơn bước trước. Hãy hình dung nó giống như mỗi ngày bạn đang nuôi con sói cần được nuôi, và mỗi ngày nó lại trở nên mạnh mẽ và vững chắc hơn.\n\nĐồng thời, mỗi ngày bạn diệt trừ một phần điều gì đó có hại cho bạn. Bằng cách đó, kẻ thù sẽ yếu đi, còn bạn sẽ mạnh mẽ hơn theo từng ngày."
+      }
+    },
+    {
+      "id": "v0015",
+      "text": {
+        "ru": "Тяга — это страх перед своими эмоциями.\n\nЕсли тебе сейчас тяжело — побей подушку, поплачь, покричи, потанцуй, выпусти тревогу.\n\nУ тебя всё получится!",
+        "en": "Craving is fear of your own emotions.\n\nIf it's hard for you right now — hit a pillow, cry, scream, dance, release the anxiety.\n\nYou can do it!",
+        "vi": "Cơn thèm muốn chính là sự sợ hãi trước cảm xúc của chính mình.\n\nNếu lúc này bạn đang cảm thấy khó khăn — hãy đấm vào gối, hãy khóc, hãy hét lên, hãy nhảy múa, hãy giải tỏa sự lo âu.\n\nBạn chắc chắn sẽ làm được!"
+      }
+    },
+    {
+      "id": "v0016",
+      "text": {
+        "ru": "У всего есть «год спустя». Главное — начать делать то, что ты хочешь, сегодня.\n\nИ проще сказать себе: «Сегодня я буду делать это» — и так каждый день. Так же, например, с бросанием курить. Просто скажи себе: «Сегодня я не курю» — и не кури 1 день. И так каждый день.\n\nТебе действительно станет легче. Мне это помогло.",
+        "en": "Everything has a 'one year later'. The main thing is to start doing what you want today.\n\nAnd it's easier to tell yourself: 'Today I will do this' — and so on every day. Same with quitting smoking, for example. Just tell yourself: 'Today I don't smoke' — and don't smoke for 1 day. And so every day.\n\nIt really will get easier for you. It helped me.",
+        "vi": "Mọi thứ đều sẽ có cột mốc 'một năm sau'. Điều quan trọng là bắt đầu làm những gì bạn muốn ngay hôm nay.\n\nVà sẽ dễ dàng hơn khi tự nói với mình: 'Hôm nay mình sẽ làm điều này' — và cứ thế mỗi ngày. Ví dụ như việc bỏ thuốc lá cũng vậy. Chỉ cần tự nói với mình: 'Hôm nay mình không hút thuốc' — và không hút trong 1 ngày. Và cứ tiếp tục như vậy mỗi ngày.\n\nBạn thực sự sẽ cảm thấy nhẹ nhàng hơn. Điều này đã giúp ích cho tôi."
       }
     }
   ]
