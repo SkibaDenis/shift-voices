@@ -94,7 +94,7 @@
       "text": {
         "ru": "Ты можешь сделать всё, что пожелаешь.\n\nВся сила, мудрость, опора — внутри тебя. Просто обратись к ней.",
         "en": "You can do anything you wish.\n\nAll the strength, wisdom, and support are inside you. Just turn to it.",
-        "vi": "Bạn có thể làm bất cứ điều gì mình mong muốn.\n\nTất cả sức mạnh, sự khôn ngoan và điểm tựa đều ở bên trong bạn. Chỉ cần tìm về с nó."
+        "vi": "Bạn có thể làm bất cứ điều gì mình mong muốn.\n\nTất cả sức mạnh, sự khôn ngoan và điểm tựa đều ở bên trong bạn. Chỉ cần tìm về với nó."
       }
     },
     {
@@ -143,6 +143,14 @@
         "ru": "Всё проходит, поэтому цени то, что есть сейчас.\n\nА если появляется грусть, печаль или уныние, то заведи собаку. Ну или хотя бы погладь какую-нибудь собачку — они всегда благодарны за ласку.\n\nНу или помоги чем-нибудь кому-нибудь: человеку нужно быть полезным, тогда понимаешь, что можешь вложить частичку добра в мировой круговорот добра.",
         "en": "Everything passes, so cherish what you have right now.\n\nAnd if sadness, sorrow, or gloom set in, get a dog. Or at least pet some doggy — they are always grateful for affection.\n\nOr help someone out: a person needs to feel useful, and that's when you realize you can contribute a piece of kindness into the world's cycle of kindness.",
         "vi": "Mọi thứ rồi cũng sẽ qua, vì vậy hãy trân trọng những gì đang có ở hiện tại.\n\nCòn nếu nỗi buồn hay sự chán nản tìm đến, hãy nuôi một chú chó. Hoặc ít nhất là vuốt ve một chú chó nào đó — chúng luôn biết ơn sự yêu thương.\n\nHoặc hãy giúp đỡ ai đó một điều gì đó: con người cần cảm thấy mình có ích, khi đó bạn sẽ nhận ra mình có thể đóng góp một chút điều tốt đẹp vào vòng quay việc tốt của thế giới."
+      }
+    },
+    {
+      "id": "v0019",
+      "text": {
+        "ru": "Жизнь всегда может подкидывать тебе сложные ситуации, с которыми нужно справиться.\n\nПройти эти испытания и знать, что в конце тебя точно ждёт награда.",
+        "en": "Life can always throw difficult situations at you that you need to overcome.\n\nGo through these trials, knowing that a reward surely awaits you at the end.",
+        "vi": "Cuộc sống luôn có thể đẩy bạn vào những tình huống khó khăn mà bạn phải vượt qua.\n\nHãy bước qua những thử thách này và tin rằng, ở cuối con đường chắc chắn sẽ có phần thưởng đang chờ đón bạn."
       }
     }
   ]
