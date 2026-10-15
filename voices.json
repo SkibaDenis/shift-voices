@@ -152,6 +152,14 @@
         "en": "Life can always throw difficult situations at you that you need to overcome.\n\nGo through these trials, knowing that a reward surely awaits you at the end.",
         "vi": "Cuộc sống luôn có thể đẩy bạn vào những tình huống khó khăn mà bạn phải vượt qua.\n\nHãy bước qua những thử thách này và tin rằng, ở cuối con đường chắc chắn sẽ có phần thưởng đang chờ đón bạn."
       }
+    },
+    {
+      "id": "v0020",
+      "text": {
+        "ru": "Ты сильный, ты потомок достойных людей. Ты не имеешь права сдаваться, потому что сдаются слабаки.",
+        "en": "You are strong, you are a descendant of worthy people. You have no right to give up, because only the weak give up.",
+        "vi": "Bạn rất mạnh mẽ, bạn là dòng dõi của những con người đáng kính. Bạn không có quyền bỏ cuộc, bởi vì chỉ có kẻ yếu đuối mới bỏ cuộc."
+      }
     }
   ]
 }
